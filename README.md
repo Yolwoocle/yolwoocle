@@ -13,4 +13,3 @@ I'm currently learning Pico-8, Python, and Godot. It's a ton of fun! ( ╹▽╹
 How to contact me:
 
 **Discord:** Yolwoocle#6689  
-[<img src="Images/github.svg" alt="logo" width="30px"/>](http://github.com/Yolwoocle/)
