@@ -1,6 +1,3 @@
-# Hi! 👋(◍•ᴗ•◍)
+# Hi!
 
-**I'm a french teenager that is passionate about making games, maths, computer science and art.**
-
-I'm **16**, **he/him**  
-I'm currently learning Python and Arduino. It's a ton of fun! ( ╹▽╹ )
+I'm a french teenager that is passionate about computer science, maths and art. I was one of the finalists for the 2018 Minecon Cosplay Contest.
