@@ -6,6 +6,7 @@ My favourite engine is [PICO-8](https://pico8.com/), I made [Birds with Guns](ht
 💻 My website : [yolwoocle.github.io](https://yolwoocle.github.io/) \
 🕹 My games : [yolwoocle.itch.io](https://yolwoocle.itch.io)
 
+he/him.
 
 [![if you see this, it probably means something is not working](https://github-readme-stats.vercel.app/api?username=Yolwoocle&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![if you see this, it probably means something is not working](https://github-readme-stats.vercel.app/api/top-langs/?username=Yolwoocle&langs_count=4&hide_border=true&theme=dark&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
