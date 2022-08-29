@@ -9,7 +9,7 @@ My favourite engine are [PICO-8](https://pico8.com/) and [LÖVE](https://love2d.
 🕹 My other games : [yolwoocle.itch.io](https://yolwoocle.itch.io)  
 💻 My website and portfolio : [yolwoocle.github.io](https://yolwoocle.github.io/)
 
-Here you can find the source code for my games and other silly projects. Please feel free to reuse it for your own projects, even my paid games. But unless stated explicitly, please do not reuse my work in commercial projects without my permission first. If this commercial project happens to be related to cryptocurrencies or NFTs, please do not even bother to contact me, the answer is no.  
+Here you can find the source code for my games and other silly projects. Please feel free to reuse it for your own projects, even my paid games. But unless stated explicitly, please do not reuse my work in commercial projects without my permission first; I will probably say yes! If this commercial project happens to be related to cryptocurrencies or NFTs, please do not even bother to contact me, the answer is no.  
 
 [![if you see this, it probably means something is not working](https://github-readme-stats.vercel.app/api?username=Yolwoocle&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 [![if you see this, it probably means something is not working](https://github-readme-stats.vercel.app/api/top-langs/?username=Yolwoocle&langs_count=4&hide_border=true&theme=dark&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)  
