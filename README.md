@@ -1,7 +1,7 @@
 # Hi! 👋
 
 🌵 Nice to meet you! I'm a developer from France passionate about making games. I am currently studying computer science in Lyon, France.  
-My favourite engines are [PICO-8](https://pico8.com/) and [LÖVE](https://love2d.org/). I made a few games, you can check them out:  
+My favorite engines are [PICO-8](https://pico8.com/) and [LÖVE](https://love2d.org/). I made a few games, you can check them out:  
 * [🦖 Pico Dino](https://yolwoocle.itch.io/pico-dino), a lively reimagination of Google Chrome's classic easter egg.  
 * [🦆 Birds with Guns](https://yolwoocle.itch.io/birds-with-guns/), a tiny and frantic shooter set in a train. Claim back your eggs for the bird kingdom!  
 * [🐞 Bugscraper](https://yolwoocle.itch.io/bugscraper/), a platformer shooter set in an elevator. Rampage your way through a pest-infected tower!  
