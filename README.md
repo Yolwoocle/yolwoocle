@@ -2,9 +2,9 @@
   <h1>Hi! 👋</h1>
 </div>
 
-🌵 Nice to meet you! I'm a developer from France passionate about making games. I am currently studying mathematics and computer science in Lyon, France.  
+🌵 Nice to meet you! I'm a developer from France passionate about making games. I love making colorful and lively games that bring joy and fun. I am currently studying mathematics and computer science in [French preparatory classes](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) at the Lycée du Parc in Lyon, France. 
 My favorite engines are [PICO-8](https://pico8.com/) and [LÖVE](https://love2d.org/). I made a few games, you can check them out:  
-* [🦆 Birds with Guns](https://yolwoocle.itch.io/birds-with-guns/), a tiny and frantic shooter set in a train. Claim back your eggs for the bird kingdom!  
+* [🦆 Birds With Guns](https://yolwoocle.itch.io/birds-with-guns/), a tiny and frantic shooter set in a train. Claim back your eggs for the bird kingdom!  
 * [🐞 Bugscraper](https://yolwoocle.itch.io/bugscraper/), a platformer shooter set in an elevator. Rampage your way through a pest-infected tower!  
 * [🦖 Pico Dino](https://yolwoocle.itch.io/pico-dino), a lively reimagination of Google Chrome's classic easter egg.  
 
@@ -12,10 +12,8 @@ My favorite engines are [PICO-8](https://pico8.com/) and [LÖVE](https://love2d.
 🕹 My other games : [yolwoocle.itch.io](https://yolwoocle.itch.io)  
 💻 My website and portfolio : [yolwoocle.github.io](https://yolwoocle.github.io/)
 
-Here you can find the source code for my games and other silly projects.   
-> Please feel free to reuse anything for your own projects, even if it's from my paid games. But unless stated explicitly, **please do not reuse my work in commercial projects without my permission first** (I will probably say yes!).  
-> However, if this commercial project happens to be related to **cryptocurrencies or NFTs, please do not even bother to contact me, the answer is no**.  
-
+You can find the source code for my games and other silly projects here on GitHub.   
+> Please feel free to reuse anything for your own projects, even if it's from my commercial projects. But unless stated explicitly, **please do not reuse my work in commercial projects without my permission first** (I will probably say yes! [Contact me here](https://yolwoocle.github.io/aboutme.html)).  
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
