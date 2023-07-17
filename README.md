@@ -2,7 +2,7 @@
   <h1>Hi! 👋</h1>
 </div>
 
-🌵 Nice to meet you! I'm a developer from France passionate about making games. I love making colorful and lively games that bring joy and fun. I am currently studying mathematics and computer science in [French preparatory classes](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) at the Lycée du Parc in Lyon, France. 
+🌵 Nice to meet you! I'm a developer from France passionate about making games. I love making colorful and lively games that bring joy. I am currently studying mathematics and computer science in [French preparatory classes](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) at the Lycée du Parc in Lyon, France. 
 My favorite engines are [PICO-8](https://pico8.com/) and [LÖVE](https://love2d.org/). I made a few games, you can check them out:  
 * [🦆 Birds With Guns](https://yolwoocle.itch.io/birds-with-guns/), a tiny and frantic shooter set in a train. Claim back your eggs for the bird kingdom!  
 * [🐞 Bugscraper](https://yolwoocle.itch.io/bugscraper/), a platformer shooter set in an elevator. Rampage your way through a pest-infected tower!  
