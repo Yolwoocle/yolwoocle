@@ -4,8 +4,8 @@
 
 🌵 Nice to meet you! I'm a developer from France passionate about making games. I love making colorful and lively games that bring joy. I am currently studying mathematics and computer science. 
 My favorite engines are [PICO-8](https://pico8.com/) and [LÖVE](https://love2d.org/). I made a few games, you can check them out:  
-* [🦆 Birds With Guns](https://yolwoocle.itch.io/birds-with-guns/), a tiny and frantic shooter set in a train. Claim back your eggs for the bird kingdom!  
-* [🐞 Bugscraper](https://yolwoocle.itch.io/bugscraper/), a platformer shooter set in an elevator. Rampage your way through a pest-infected tower!  
+* [🦆 Birds With Guns](https://yolwoocle.itch.io/birds-with-guns/), a tiny and frantic shooter set in a train. Claim back your eggs for the bird kingdom! [Source](https://github.com/Yolwoocle/birds_with_guns)
+* [🐞 Bugscraper](https://yolwoocle.itch.io/bugscraper/), a platformer shooter set in an elevator. Rampage your way through a pest-infected tower! [Source](https://github.com/Yolwoocle/bugscraper)
 * [🦖 Pico Dino](https://yolwoocle.itch.io/pico-dino), a lively reimagination of Google Chrome's classic easter egg.  
 
 
