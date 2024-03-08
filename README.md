@@ -2,7 +2,7 @@
   <h1>Hi! 👋</h1>
 </div>
 
-🌵 Nice to meet you! I'm a computer science student from France passionate about the creation of video games. Like a digital nomad, I never settle on a single tool and I'm always on the lookout for new challenges, hoping to bring people joy through colorful and lively games. I also love rock climbing, improv comedy and those amazing chocolate glazed jelly cookies.
+🌵 Nice to meet you! I'm a computer science student from France passionate about the creation of video games. I never settle on a single tool and I'm always on the lookout for new challenges, hoping to bring people joy through colorful and lively games. I also love rock climbing, improv comedy and those amazing chocolate glazed jelly cookies.
 My favorite engines are [PICO-8](https://pico8.com/) and [LÖVE](https://love2d.org/). I made a few games, you can check them out:  
 * [🦆 Birds With Guns](https://yolwoocle.itch.io/birds-with-guns/), a tiny and frantic shooter set in a train. Claim back your eggs for the bird kingdom! [Source code](https://github.com/Yolwoocle/birds_with_guns)
 * [🐞 Bugscraper](https://yolwoocle.itch.io/bugscraper/), a platformer shooter set in an elevator. Rampage your way through a pest-infected tower! [Source code](https://github.com/Yolwoocle/bugscraper)
