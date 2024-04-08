@@ -10,7 +10,7 @@ My favorite engines are [PICO-8](https://pico8.com/) and [LÖVE](https://love2d.
 
 
 🕹 My other games : [yolwoocle.itch.io](https://yolwoocle.itch.io)  
-💻 My website and portfolio : [yolwoocle.github.io](https://yolwoocle.github.io/)
+💻 My website and portfolio : [yolwoocle.github.io](https://yolwoocle.com/)
 
 You can find the source code for my games and other silly projects here on GitHub.   
 > Please feel free to reuse anything for your own projects, even if it's from my commercial projects. But unless stated explicitly, **please do not reuse my work in commercial projects without my permission first** (I will probably say yes! [Contact me here](https://yolwoocle.github.io/aboutme.html)).  
