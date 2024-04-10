@@ -8,7 +8,7 @@ My favorite engines are [PICO-8](https://pico8.com/) and [LÖVE](https://love2d.
 * [🐞 Bugscraper](https://yolwoocle.itch.io/bugscraper/), a platformer shooter set in an elevator. Rampage your way through a pest-infected tower! [Source code](https://github.com/Yolwoocle/bugscraper)
 * [🦖 Pico Dino](https://yolwoocle.itch.io/pico-dino), a lively reimagination of Google Chrome's classic easter egg.  
 
-💻 My website and portfolio : [yolwoocle.com](https://yolwoocle.com/)
+💻 My website and portfolio : [yolwoocle.com](https://yolwoocle.com/)   
 🕹 My other games : [yolwoocle.itch.io](https://yolwoocle.itch.io)  
 
 You can find the source code for my games and other silly projects here on GitHub.   
