@@ -20,6 +20,12 @@ You can find the source code for my games and other silly projects here on GitHu
     </a>
 </div>
 
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yolwoocle&theme=dark&show_icons=true&hide_border=true" alt="[Top used languages]">
+    </a>
+</div>
+
 <!--[![if you see this, it probably means something is not working](https://github-readme-stats.vercel.app/api/top-langs/?username=Yolwoocle&langs_count=4&hide_border=true&theme=dark&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)-->
   
 
