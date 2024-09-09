@@ -4,7 +4,7 @@
 
 🌵 Nice to meet you! I'm a computer science student from France passionate about the creation of video games. I never settle on a single tool and I'm always on the lookout for new challenges, hoping to bring people joy through colorful and lively games. I also love cycling, rock climbing and those amazing chocolate glazed jelly cookies.
 My favorite engines are [PICO-8](https://pico8.com/) and [LÖVE](https://love2d.org/). I made a few games, you can check them out:  
-* **🧊 Globs**, a colorful and charming puzzle game about size-changing Globs. [[itch.io]](https://yolwoocle.itch.io/globs/) [[Source code]](https://github.com/Arkanyota/gmtk2024)
+* **🧊 Globs**, a colorful and charming puzzle game about size-changing blobs. [[itch.io]](https://yolwoocle.itch.io/globs/) [[Source code]](https://github.com/Arkanyota/gmtk2024)
 * **🦆 Birds With Guns**, a tiny and frantic shooter set in a train. Claim back your eggs for the bird kingdom! [[itch.io]](https://yolwoocle.itch.io/birds-with-guns/) [[PICO-8 BBS]](https://www.lexaloffle.com/bbs/?tid=45334) [[Source code]](https://github.com/Yolwoocle/birds_with_guns)
 * **🐞 Bugscraper**, a platformer shooter set in an elevator. Rampage your way through a pest-infected tower! [[Website]](https://bugscraper.net) [[Steam]](s.team/a/2957130) [[itch.io]](https://yolwoocle.itch.io/bugscraper/) [[Source code]](https://github.com/Yolwoocle/bugscraper)
 * **🦖 Pico Dino**, a lively reimagination of Google Chrome's classic easter egg. [[itch.io]](https://yolwoocle.itch.io/pico-dino) [[PICO-8 BBS]](https://www.lexaloffle.com/bbs/?tid=40759) \[Source code on PICO-8 BBS\]
