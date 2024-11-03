@@ -15,9 +15,9 @@
 I'm a computer science student from France passionate about making video games. I never settle on a single tool, and I hope to bring people joy through my creations. I also love cycling, rock climbing and those amazing chocolate glazed jelly cookies.
 
 I made a few games, you can check them out:  
-* <span><img src="img/icon_globs.png"></span> **Globs**, a colorful puzzle game about size-changing blobs. [[itch.io]](https://yolwoocle.itch.io/globs/) [[Source code]](https://github.com/Arkanyota/gmtk2024)
-* <span><img src="img/icon_bwg.png"></span> **Birds With Guns**, a tiny and frantic shooter set in a train. [[itch.io]](https://yolwoocle.itch.io/birds-with-guns/) [[PICO-8 BBS]](https://www.lexaloffle.com/bbs/?tid=45334) [[Source code]](https://github.com/Yolwoocle/birds_with_guns)
 * <span><img src="img/icon_bugscraper.png"></span> **Bugscraper**, a platformer shooter set in an elevator. [[Website]](https://bugscraper.net) [[Steam]](s.team/a/2957130) [[itch.io]](https://yolwoocle.itch.io/bugscraper/) [[Source code]](https://github.com/Yolwoocle/bugscraper)
+* <span><img src="img/icon_globs.png"></span> **Globs**, a colorful puzzle game about size-changing blobs. [[itch.io]](https://yolwoocle.itch.io/globs/) [[Steam]](https://s.team/a/3219110) [[Source code]](https://github.com/Arkanyota/gmtk2024)
+* <span><img src="img/icon_bwg.png"></span> **Birds With Guns**, a tiny and frantic shooter set in a train. [[itch.io]](https://yolwoocle.itch.io/birds-with-guns/) [[PICO-8 BBS]](https://www.lexaloffle.com/bbs/?tid=45334) [[Source code]](https://github.com/Yolwoocle/birds_with_guns)
 * <span><img src="img/icon_picodino.png"></span> **Pico Dino**, a lively reimagination of Google Chrome's classic easter egg. [[itch.io]](https://yolwoocle.itch.io/pico-dino) [[PICO-8 BBS]](https://www.lexaloffle.com/bbs/?tid=40759) \[Source code on PICO-8 BBS\]
 
 💻 My website and portfolio : [yolwoocle.com](https://yolwoocle.com/)   
