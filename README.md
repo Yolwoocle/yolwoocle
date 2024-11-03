@@ -11,7 +11,7 @@
 [GitHub](https://github.com/yolwoocle) &middot; 
 [Email](mailto:leo@yolwoocle.com)
 
-**Hi, nice to meet you!** 
+**Hi, nice to meet you! (｡•̀ᴗ-)✧** 
 
 I'm a computer science student from France passionate about making video games. I never settle on a single tool, and I hope to bring people joy through my creations. I also love cycling, rock climbing and those amazing chocolate glazed jelly cookies.
 
