@@ -5,7 +5,7 @@
 
 [Website](https://yolwoocle.com) &middot;
 [Twitter](https://twitter.com/yolwoocle_) · 
-[Bluesky](https://yolwoocle.bsky.app) · 
+[Bluesky](https://bsky.app/profile/yolwoocle.com) · 
 [LinkedIn](https://github.com/yolwoocle) ·
 [Instagram](https://www.instagram.com/yolwoocle/) &middot; [itch.io](https://yolwoocle.itch.io/) &middot; 
 [GitHub](https://github.com/yolwoocle) &middot; 
