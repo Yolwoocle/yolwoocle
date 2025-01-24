@@ -26,7 +26,7 @@ I made a few games, you can check them out:
 🕹 My other games : [yolwoocle.itch.io](https://yolwoocle.itch.io)  
 
 You can find the source code for my games and other silly projects here on GitHub.   
-> Please feel free to reuse anything for your own projects, even if it's from my commercial projects. But unless stated explicitly, **please do not reuse my work in commercial projects without my permission first** (I will probably say yes! [Contact me here](https://yolwoocle.github.io/aboutme.html)).  
+> Please feel free to reuse anything for your own projects, even if it's from my commercial projects. But unless stated explicitly, **please do not reuse my work in commercial projects without my permission first** ([Contact me here!](https://yolwoocle.com/about#contact)).  
 
 <!-- <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
