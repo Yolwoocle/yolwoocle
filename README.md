@@ -18,9 +18,9 @@ I co-founded [Ninesliced](https://ninesliced.com) with my friends.
 
 I made a few games, you can check them out:  
 * <span><img src="img/icon_bugscraper.png"></span> **Bugscraper**, a platformer shooter set in an elevator. [[Website]](https://bugscraper.net) [[Steam]](s.team/a/2957130) [[itch.io]](https://yolwoocle.itch.io/bugscraper/) [[Source code]](https://github.com/Yolwoocle/bugscraper)
-* <span><img src="img/icon_globs.png"></span> **Globs**, a colorful puzzle game about size-changing blobs. [[itch.io]](https://yolwoocle.itch.io/globs/) [[Steam]](https://s.team/a/3219110) [[Source code]](https://github.com/Arkanyota/gmtk2024)
+* <span><img src="img/icon_globs.png"></span> **Globs**, a colorful puzzle game about size-changing blobs. [[Steam]](https://s.team/a/3219110) [[iOS]](https://apps.apple.com/us/app/globs-a-colorful-puzzle-game/id6738417089) [[Android]](https://play.google.com/store/apps/details?id=com.yolwoocle.globs) [[itch.io]](https://ninesliced.itch.io/globs/) [[Source code]](https://github.com/Arkanyota/gmtk2024)
 * <span><img src="img/icon_bwg.png"></span> **Birds With Guns**, a tiny and frantic shooter set in a train. [[itch.io]](https://yolwoocle.itch.io/birds-with-guns/) [[PICO-8 BBS]](https://www.lexaloffle.com/bbs/?tid=45334) [[Source code]](https://github.com/Yolwoocle/birds_with_guns)
-* <span><img src="img/icon_picodino.png"></span> **Pico Dino**, a lively reimagination of Google Chrome's classic easter egg. [[itch.io]](https://yolwoocle.itch.io/pico-dino) [[PICO-8 BBS]](https://www.lexaloffle.com/bbs/?tid=40759) \[Source code on PICO-8 BBS\]
+* <span><img src="img/icon_picodino.png"></span> **Pico Dino**, a lively reimagination of Google Chrome's classic easter egg. [[itch.io]](https://yolwoocle.itch.io/pico-dino) [[PICO-8 BBS]](https://www.lexaloffle.com/bbs/?tid=40759) [[Source code on PICO-8 BBS]](https://www.lexaloffle.com/bbs/?tid=40759)
 
 💻 My website and portfolio : [yolwoocle.com](https://yolwoocle.com/)   
 🕹 My other games : [yolwoocle.itch.io](https://yolwoocle.itch.io)  
