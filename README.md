@@ -4,20 +4,21 @@
 <img src="img/github_banner_green.png">
 
 [Website](https://yolwoocle.com) &middot;
-[Bluesky](https://bsky.app/profile/yolwoocle.com) · 
-[Twitter/X](https://x.com/yolwoocle_) · 
-[LinkedIn](https://github.com/yolwoocle) ·
-[Instagram](https://www.instagram.com/yolwoocle/) &middot; [itch.io](https://yolwoocle.itch.io/) &middot; 
+[Bluesky](https://bsky.app/profile/yolwoocle.com) &middot; 
+[Twitter/X](https://x.com/yolwoocle_) &middot; 
+[LinkedIn](https://github.com/yolwoocle) &middot; 
+[Instagram](https://www.instagram.com/yolwoocle/) &middot; 
+[itch.io](https://yolwoocle.itch.io/) &middot; 
 [GitHub](https://github.com/yolwoocle) &middot; 
 [Email](mailto:leo@yolwoocle.com)
 
-**Hi, nice to meet you! (｡•̀ᴗ-)✧** 
+**Hi! (｡•̀ᴗ-)✧** 
 
-I'm a computer science student from France passionate about making video games. I never settle on a single tool, and I hope to bring people joy through my creations. I also love cycling, rock climbing and those amazing chocolate glazed jelly cookies.
+Nice to meet you, I'm Léo! I love making games and everything creative. I believe that making things is profoundly human and I hope to bring people joy through my creations. 
 
-I co-founded [Ninesliced](https://ninesliced.com) with my friends.
+I co-founded [Ninesliced](https://ninesliced.com) with my friends, a video game making band.
 
-I made a few games, you can check them out:  
+Here are some games I made:  
 * <span><img src="img/icon_bugscraper.png"></span> **Bugscraper**, a platformer shooter set in an elevator. [[Website]](https://bugscraper.net) [[Steam]](s.team/a/2957130) [[itch.io]](https://yolwoocle.itch.io/bugscraper/) [[Source code]](https://github.com/Yolwoocle/bugscraper)
 * <span><img src="img/icon_globs.png"></span> **Globs**, a colorful puzzle game about size-changing blobs. [[Steam]](https://s.team/a/3219110) [[iOS]](https://apps.apple.com/us/app/globs-a-colorful-puzzle-game/id6738417089) [[Android]](https://play.google.com/store/apps/details?id=com.yolwoocle.globs) [[itch.io]](https://ninesliced.itch.io/globs/) [[Source code]](https://github.com/Arkanyota/gmtk2024)
 * <span><img src="img/icon_bwg.png"></span> **Birds With Guns**, a tiny and frantic shooter set in a train. [[itch.io]](https://yolwoocle.itch.io/birds-with-guns/) [[PICO-8 BBS]](https://www.lexaloffle.com/bbs/?tid=45334) [[Source code]](https://github.com/Yolwoocle/birds_with_guns)
