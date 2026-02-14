@@ -1,7 +1,7 @@
 <!-- <div align="center">
   <h1>Hi! 👋</h1>
 </div> -->
-<img src="img/github_banner_green.png">
+<img src="img/github_banner_green_2.png">
 
 [Website](https://yolwoocle.com) &middot;
 [Bluesky](https://bsky.app/profile/yolwoocle.com) &middot; 
