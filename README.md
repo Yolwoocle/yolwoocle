@@ -14,7 +14,7 @@
 
 **Hi! (｡•̀ᴗ-)✧** 
 
-Nice to meet you, I'm Léo! I love making games and everything creative. I believe that making things is profoundly human and I hope to bring people joy through my creations. 
+Nice to meet you, I'm Léo! I love making games and everything creative. I believe that the desire to create things is profoundly human and I hope to bring people joy through my creations. 
 
 I co-founded [Ninesliced](https://ninesliced.com) with my friends, a video game making band.
 
